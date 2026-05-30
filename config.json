@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderfonnect",
+        "uuid": 837330,
+        "checksum": "2dlkc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
